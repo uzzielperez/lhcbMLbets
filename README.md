@@ -40,6 +40,21 @@ model.fit(
 model = tf.keras.models.load_model('path_to_save_model/model_checkpoint.h5')
 ```
 
+# Python environment
+
+``````
+# Create a virtual environment
+python -m venv myenv
+
+# Activate the virtual environment
+source myenv/bin/activate  # For macOS/Linux
+# myenv\Scripts\activate  # For Windows
+
+# Install required packages
+pip install pandas h5py pyarrow
+``````
+
+
 # Resources and References 
 
 ## Electron vs Photon
