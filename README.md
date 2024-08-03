@@ -66,4 +66,6 @@ pip install pandas h5py pyarrow
 
 ## Quarks vs Gluons 
 * Original Paper: [arXiv:1902.08276](https://arxiv.org/abs/1902.08276)
+* Boosted Top Quarks Classification: [arXiv:2104.14659](https://arxiv.org/abs/1902.08276)
+
 
