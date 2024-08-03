@@ -63,3 +63,7 @@ pip install pandas h5py pyarrow
 * [CMU Poster](https://www.cmu.edu/ai-physics-institute/outreach/surp/images/2022/manami-kanemura-poster.pdf)
 * [Gentle Introduction to Machine Learning for Particle Physics](https://github.com/Manami-16/Intro_to_Deep_Learning_for_Particle_Physics)
 * [KyungMinPark Github](https://github.com/kyungminparkdrums/EGamma/blob/master/EGamma_ML.ipynb)
+
+## Quarks vs Gluons 
+* Original Paper: [arXiv:1902.08276](https://arxiv.org/abs/1902.08276)
+
