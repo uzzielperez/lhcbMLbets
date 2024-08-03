@@ -1,5 +1,9 @@
 # lhcbMLbets
 
+The notebooks here are personal notes derived from various sources, even from outside LHCb. 
+The references and original work are found in the Resources/Reference section below.
+
+
 # Tips 
 ## Converting python to ipynb 
 ```
