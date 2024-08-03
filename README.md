@@ -1,7 +1,7 @@
 # lhcbMLbets
 
 The notebooks here are personal notes derived from various sources, even from outside LHCb. 
-The references and original work are found in the Resources/Reference section below.
+Previous work are found in the Resources/References section below.
 
 
 # Tips 
@@ -40,7 +40,7 @@ model.fit(
 model = tf.keras.models.load_model('path_to_save_model/model_checkpoint.h5')
 ```
 
-# Resources 
+# Resources/ References
 
 * [Summer Student Report](https://cds.cern.ch/record/2824815/files/Final%20Report%20-%20Fahed%20AlRashidi.pdf)
 * [CMU Poster](https://www.cmu.edu/ai-physics-institute/outreach/surp/images/2022/manami-kanemura-poster.pdf)
