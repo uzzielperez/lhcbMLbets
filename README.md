@@ -57,6 +57,9 @@ pip install pandas h5py pyarrow
 
 # Resources and References 
 
+## HEP-ML Living Review
+* [Living Review](https://github.com/iml-wg/HEPML-LivingReview) 
+
 ## Electron vs Photon
 * Original Paper: [M Andrews et al 2018J. Phys.: Conf. Ser. 1085 042022](https://iopscience.iop.org/article/10.1088/1742-6596/1085/4/042022/pdf)
 * [Summer Student Report](https://cds.cern.ch/record/2824815/files/Final%20Report%20-%20Fahed%20AlRashidi.pdf)
