@@ -58,7 +58,7 @@ pip install pandas h5py pyarrow
 # Resources and References 
 
 ## HEP-ML Living Review
-* [Living Review](https://github.com/iml-wg/HEPML-LivingReview) 
+* [Living Review](https://github.com/iml-wg/HEPML-LivingReview)
 
 ## Electron vs Photon
 * Original Paper: [M Andrews et al 2018J. Phys.: Conf. Ser. 1085 042022](https://iopscience.iop.org/article/10.1088/1742-6596/1085/4/042022/pdf)
@@ -70,5 +70,6 @@ pip install pandas h5py pyarrow
 ## Quarks vs Gluons 
 * Original Paper: [arXiv:1902.08276](https://arxiv.org/abs/1902.08276)
 * Boosted Top Quarks Classification: [arXiv:2104.14659](https://arxiv.org/abs/1902.08276)
+* [Ericardomuten](https://github.com/ericardomuten/qml-hep-gsoc-2021/blob/main/QML_HEP_GSoC_2021_Tasks_IV_GNN.ipynb)
 
 
